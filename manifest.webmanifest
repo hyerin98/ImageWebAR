@@ -1,11 +1,11 @@
 {
-    "name": "PacmanAR",
-    "short_name": "PacmanAR",
+    "name": "TerraPacmanARGame",
+    "short_name": "TerraPacmanARGame",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "",
+    "description": "terrapacmanargame",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",

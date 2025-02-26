@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-PacmanAR-0.1";
+const cacheName = "IMFINE-TerraPacmanARGame-0.0.1";
 const contentToCache = [
     "Build/pacmanAR_buildTest.loader.js",
     "Build/pacmanAR_buildTest.framework.js.unityweb",
